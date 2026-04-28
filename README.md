@@ -59,3 +59,6 @@ Event
 
 ## 🧠 Conclusion
 This project successfully demonstrated the detection and investigation of a brute-force attack using Microsoft Sentinel. It highlights the importance of monitoring authentication logs and implementing proactive security controls.
+
+## 📄 Full Report
+[View Full Report](report/Brute-Force-Detection.pdf)
