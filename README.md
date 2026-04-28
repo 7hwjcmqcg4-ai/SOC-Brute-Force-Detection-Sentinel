@@ -48,14 +48,15 @@ Event
 - Configured alerting for repeated login failures
 - Suggested monitoring for further suspicious activity
 
-<img width="1683" height="880" alt="Screenshot 2026-04-24 131650" src="https://github.com/user-attachments/assets/456d6f83-e572-40f9-90e3-c7d54aa60816" />
-<img width="1686" height="412" alt="Screenshot 2026-04-24 131114" src="https://github.com/user-attachments/assets/8e492ed7-9a06-4ed7-9551-77a5e404891f" />
-<img width="1744" height="790" alt="Screenshot 2026-04-24 131001" src="https://github.com/user-attachments/assets/64092d9e-9f26-4f06-a994-45ec790d6677" />
+
 ## 📊 Detection Screenshot
-![Detection](screenshots/detection.png)
+![<img width="1683" height="880" alt="Screenshot 2026-04-24 131650" src="https://github.com/user-attachments/assets/b9860f86-93f8-4b32-8a85-d2280155c7a0" />
+](screenshots/detection.png)
 
 ## 📊 Analysis Screenshot
-![Analysis](screenshots/analysis.png)
+![<img width="1686" height="412" alt="Screenshot 2026-04-24 131114" src="https://github.com/user-attachments/assets/200effb1-8149-4442-9ee4-35cf06d72940" />
+<img width="1744" height="790" alt="Screenshot 2026-04-24 131001" src="https://github.com/user-attachments/assets/8386bf90-c505-4d76-8c9a-86cd31989873" />
+](screenshots/analysis.png)
 
 ## 🧠 Conclusion
 This project successfully demonstrated the detection and investigation of a brute-force attack using Microsoft Sentinel. It highlights the importance of monitoring authentication logs and implementing proactive security controls.
